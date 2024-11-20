@@ -1,0 +1,2 @@
+# vimset
+personal vimrc setting
